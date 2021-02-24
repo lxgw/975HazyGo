@@ -10,10 +10,10 @@ A Chinese Font Derived from Source Han Sans. 一款基于思源黑体的中文�
 暂时只有简体中文（SC）版本，剔除 'locl' 特性以减小字体体积。
 
 ## 预览
-![975hg-1.png](https://raw.githubusercontent.com/lxgw/975HazyGo/master/images/975hg-1.png)
-![975hg-2.png](https://raw.githubusercontent.com/lxgw/975HazyGo/master/images/975hg-2.png)
-![975hg-3.png](https://raw.githubusercontent.com/lxgw/975HazyGo/master/images/975hg-3.png)
-![975hg-4.png](https://raw.githubusercontent.com/lxgw/975HazyGo/master/images/975hg-4.png)
+![975hg-1.png](https://raw.githubusercontent.com/lxgw/975HazyGo/main/images/975hg-1.png)
+![975hg-2.png](https://raw.githubusercontent.com/lxgw/975HazyGo/main/images/975hg-2.png)
+![975hg-3.png](https://raw.githubusercontent.com/lxgw/975HazyGo/main/images/975hg-3.png)
+![975hg-4.png](https://raw.githubusercontent.com/lxgw/975HazyGo/main/images/975hg-4.png)
 
 ## 授权信息
 本字体依照 SIL Open Font License 1.1 授权许可发布，您可以： 
